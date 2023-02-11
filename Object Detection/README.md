@@ -1,0 +1,1 @@
+There are a lot of model for object detection.Tensorflow[https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md] have bunch of different model pre-train on coco dataset and there are detectron[https://github.com/facebookresearch/Detectron] and yolo which is well train and easy to use
