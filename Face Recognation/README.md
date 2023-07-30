@@ -1,1 +1,1 @@
-Face recognation has many aplication in real life.There are many ways and libararys created for this porpuse.One of most popular is [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition).Also always create our version for face recognation is an option. 
+Face recognation has many aplication in real life.There are many ways and libararys created for this porpuse.One of most popular is [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition).Also always create our version for face recognation is a doable option. 
